@@ -55,6 +55,13 @@ See '''example.ipynb''' for more details.
 
 
 ```bibtex
+@inproceedings{kim2023generalizing,
+  title={Generalizing Neural Additive Models via Statistical Multimodal Analysis},
+  author={Kim, Young Kyung and Di Martino, Juan Matias and Sapiro, Guillermo},
+  booktitle={ICML 3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH)},
+  year={2023}
+}
+
 @article{agarwal2021neural,
   title={Neural additive models: Interpretable machine learning with neural nets},
   author={Agarwal, Rishabh and Melnick, Levi and Frosst, Nicholas and Zhang, Xuezhou and Lengerich, Ben and Caruana, Rich and Hinton, Geoffrey E},
